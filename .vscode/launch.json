@@ -4,6 +4,13 @@
             "type": "java",
             "name": "WorkshopmongoApplication",
             "request": "launch",
+            "mainClass": "com.example.workshopmongo.WorkshopmongoApplication",
+            "projectName": "workshopmongo"
+        },
+        {
+            "type": "java",
+            "name": "WorkshopmongoApplication",
+            "request": "launch",
             "mainClass": "com.example.demo.WorkshopmongoApplication",
             "projectName": "demo"
         },
